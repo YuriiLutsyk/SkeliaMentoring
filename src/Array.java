@@ -12,8 +12,6 @@ public class Array {
             if(nums[i]<min)
                 min=nums[i];}
         System.out.println(min);
-        min
-
     }
 }
 
